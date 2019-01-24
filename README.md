@@ -1,4 +1,4 @@
-# Xamarin.Forms.apps
+# Xamarin apps
 
 List of Xamarin apps in the app stores
 
