@@ -27,5 +27,6 @@ Is open source: Whether the app is open source
 | **Exclusive 411**  |   Android  |  Android   |     |
 | **JustGiving** | Android |  |  |
 | **Picturex - Group Photo-Sharing** | Android | Android |  |
+| **Captio - Expense Reports** | Android | Android |  |
 | **Dragon Front Companion**     |   Android, iOS  |  ALL   |  YES | YES |
 
