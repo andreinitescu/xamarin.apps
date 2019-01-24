@@ -25,5 +25,6 @@ Is open source: Whether the app is open source
 | **UPS Mobile** | Android | Android|  |
 | **Paycor Mobile** | Android | Android |   |    |
 | **Exclusive 411**  |   Android  |  Android   |     |
+| **JustGiving** | Android |  |  |
 | **Dragon Front Companion**     |   Android, iOS  |  ALL   |  YES | YES |
 
