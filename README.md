@@ -6,4 +6,4 @@ To add to this list, open an issue with a link to the Xamarin app in the Apple o
 
 | Name | Platform version with Xamarin | Platform version using Xamarin.Forms | Is open source? | 
 |------|--------|-----------|-------|
-| Microsoft News     |   Android, iOS  |     |  |
+| **Microsoft News**     |   Android, iOS  |     |  |
