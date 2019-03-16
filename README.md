@@ -2,15 +2,15 @@
 
 List of Xamarin apps in the app stores
 
-To add to this list, either open an issue with a link to the Xamarin app in the Apple or Google Play store, or [tweet me a message](https://twitter.com/nitescua).
+To add to this list, either open an issue with a link to the Xamarin/Xamarin.Forms app in the Apple or Google Play store, or [tweet me a message](https://twitter.com/nitescua).
 
-Platform version with Xamarin: Says on which platforms the app has a Xamarin version. If no other platforms are mentioned, it doesn't necessarily means the app has no Xamarin version on other platforms, but it hasn't been checked yet and you're happy to contribute with checking it.
+**Platform version with Xamarin.iOS/Xamarin.Android**: It says on which platforms (Android/iOS) the app is known to have a Xamarin version. You might want to check yourself if app has Xamarin version on the other platform, contributions are welcome.
 
-Platform version with Xamarin Forms: On which platforms the app has a Xamarin Forms version. If no other platforms are mentioned, it doesn't necessarily means the app has no Xamarin Forms version on other platforms, but it hasn't been checked yet and you're happy to contribute with checking it.
+**Platform version with Xamarin Forms**: It says on which platforms (Android/iOS) the app is known to have a Xamarin Forms version. You might want to check yourself if app has a Xamarin Forms version on the other platform, contributions are welcome. 
 
 Is open source: Whether the app is open source
 
-| Name | Platform version with Xamarin | Platform version using Xamarin.Forms | Is open source? | 
+| Name | Platform version with Xamarin.iOS/Xamarin.Android | Platform version using Xamarin.Forms | Is open source? | 
 |------|--------|-----------|-------|
 | **Microsoft News**     |   Android |     |    |
 | **Microsoft Hyperlapse Mobile**  |   Android  |   Android  |     |
